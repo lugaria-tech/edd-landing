@@ -153,6 +153,7 @@ a {
     .picture-image {
         width: 200px;
         height: 2oopx;
+        margin: 0 auto;
     }
 }
 
